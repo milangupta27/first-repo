@@ -1,0 +1,9 @@
+#include<iostream>
+#include<conio.h>
+using namespace std;
+int main()
+{
+cout <<"this is my first program"<<endl;
+cout<<"hello every one "<<endl;
+return 0;
+}
