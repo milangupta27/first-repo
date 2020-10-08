@@ -3,7 +3,10 @@
 using namespace std;
 int main()
 {
+char[20] name;
 cout <<"this is my first program"<<endl;
 cout<<"hello every one "<<endl;
+cout<<"enter your name"<<endl;
+cin>>name;
 return 0;
 }
